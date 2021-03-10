@@ -27,12 +27,12 @@ If you have any suggestions, feel free to let me know!
 
 ## Changelog
 1.1.7 - Fixed README typo\
-1.1.6 - Fixed startIndex crash bug some users experienced/
-1.1.5 (Thunderstore only) - Added optional files inside
-1.1.4 - Fixed UI bug
-1.1.3 - Fixed dungeon bug
-1.1.2 - Added Gravekeeper support
-1.1.0 - Fixed item loss bug and moved chest UI
-1.0.2 - Changes to readme/manifest - added warning that item loss IS possible.
-1.0.1 - Config to change row size
-1.0.0 - Initial release
+1.1.6 - Fixed startIndex crash bug some users experienced\
+1.1.5 (Thunderstore only) - Added optional files inside\
+1.1.4 - Fixed UI bug\
+1.1.3 - Fixed dungeon bug\
+1.1.2 - Added Gravekeeper support\
+1.1.0 - Fixed item loss bug and moved chest UI\
+1.0.2 - Changes to readme/manifest - added warning that item loss IS possible.\
+1.0.1 - Config to change row size\
+1.0.0 - Initial release\

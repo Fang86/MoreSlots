@@ -35,4 +35,4 @@ If you have any suggestions, feel free to let me know!
 1.1.0 - Fixed item loss bug and moved chest UI\
 1.0.2 - Changes to readme/manifest - added warning that item loss IS possible.\
 1.0.1 - Config to change row size\
-1.0.0 - Initial release\
+1.0.0 - Initial release

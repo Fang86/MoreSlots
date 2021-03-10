@@ -1,7 +1,3 @@
-It appears all item loss bugs have been fixed - however, use this at your own risk!
-
-Optional files: You can install one of these instead of the main file, but make sure you get the one that matches whether or not you have Gravekeeper installed!
-
 # More Slots
 This mod adds more rows into your inventory. You can change this to any number you want over 4. By default, the mod adds 2 rows (16 slots).
 

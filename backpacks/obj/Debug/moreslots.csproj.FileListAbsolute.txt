@@ -1,0 +1,11 @@
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\backpacks.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\backpacks.pdb
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\0Harmony.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\assembly_valheim.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\BepInEx.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\bin\Debug\UnityEngine.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\obj\Debug\moreslots.csproj.CoreCompileInputs.cache
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\obj\Debug\moreslots.csproj.CopyComplete
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\obj\Debug\backpacks.dll
+C:\Users\fango\OneDrive\Documents\Programming\valheim\backpacks\backpacks\obj\Debug\backpacks.pdb

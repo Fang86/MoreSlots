@@ -1,0 +1,9 @@
+{
+  "name": "MoreSlots",
+  "version_number": "1.1.7",
+  "website_url": "",
+  "description": "This mod adds extra rows into your inventory. You can change this to any number you want - equal to or over 4. By default, the mod adds 2 rows (16 slots). ",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.602"
+  ]
+}

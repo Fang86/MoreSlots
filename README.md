@@ -26,8 +26,8 @@ If you have any suggestions, feel free to let me know!
 - Gravekeeper
 
 ## Changelog
-1.1.7 - Fixed README typo
-1.1.6 - Fixed startIndex crash bug some users experienced
+1.1.7 - Fixed README typo\
+1.1.6 - Fixed startIndex crash bug some users experienced/
 1.1.5 (Thunderstore only) - Added optional files inside
 1.1.4 - Fixed UI bug
 1.1.3 - Fixed dungeon bug
